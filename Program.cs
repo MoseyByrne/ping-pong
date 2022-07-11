@@ -1,9 +1,7 @@
 using System;
-using Models;
 
-namespace PingPong
-{
-  public class Program
+
+  public class PingPong
 {
   public static void Main()
   {
@@ -12,8 +10,24 @@ namespace PingPong
      int userNumber = int.Parse(stringUserNumber);
 
      Console.WriteLine("here is your pingpong list");
-     
-    
+     for (int i = 1; i <= userNumber; i++)
+     {
+      if (i % 3 == 0 && i % 5 == 0)
+      {
+        Console.WriteLine("Ping Pong!");
+      }
+      else if (i % 5 == 0)
+      {
+        Console.WriteLine("Pong");
+      }
+      else if (i % 3 == 0)
+      {
+        Console.WriteLine("Ping");
+      }
+      else
+      {
+        Console.WriteLine(i);
+      }
+     }    
   }
-}
 }

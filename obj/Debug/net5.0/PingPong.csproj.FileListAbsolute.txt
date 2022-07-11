@@ -3,3 +3,13 @@
 /Users/mobyrne/Desktop/C#/ping-pong/obj/Debug/net5.0/PingPong.AssemblyInfoInputs.cache
 /Users/mobyrne/Desktop/C#/ping-pong/obj/Debug/net5.0/PingPong.AssemblyInfo.cs
 /Users/mobyrne/Desktop/C#/ping-pong/obj/Debug/net5.0/PingPong.csproj.CoreCompileInputs.cache
+/Users/mobyrne/Desktop/C#/ping-pong/bin/Debug/net5.0/PingPong.deps.json
+/Users/mobyrne/Desktop/C#/ping-pong/bin/Debug/net5.0/PingPong.runtimeconfig.json
+/Users/mobyrne/Desktop/C#/ping-pong/bin/Debug/net5.0/PingPong.runtimeconfig.dev.json
+/Users/mobyrne/Desktop/C#/ping-pong/bin/Debug/net5.0/PingPong.dll
+/Users/mobyrne/Desktop/C#/ping-pong/bin/Debug/net5.0/ref/PingPong.dll
+/Users/mobyrne/Desktop/C#/ping-pong/bin/Debug/net5.0/PingPong.pdb
+/Users/mobyrne/Desktop/C#/ping-pong/obj/Debug/net5.0/PingPong.dll
+/Users/mobyrne/Desktop/C#/ping-pong/obj/Debug/net5.0/ref/PingPong.dll
+/Users/mobyrne/Desktop/C#/ping-pong/obj/Debug/net5.0/PingPong.pdb
+/Users/mobyrne/Desktop/C#/ping-pong/obj/Debug/net5.0/PingPong.genruntimeconfig.cache
